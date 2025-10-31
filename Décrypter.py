@@ -4,7 +4,7 @@ import time
 import json
 
 # 🔑 Ton token et chat_id Telegram
-TELEGRAM_TOKEN = "7767041903:AAEL4enFf0gWivFoZs0f>
+TELEGRAM_TOKEN = "7497672818:AAGvj4BL1RE8pkuHi67cBWjUWBVaLfiyGSs"
 CHAT_ID = "7874160840"
 
 def get_last_sms():
